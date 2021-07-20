@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(167, 231, 231);
+    text-align: center;
+    margin-left: 10px;
+}
+.main_div{
+    background-color: white;
+    border-radius: 20px;
+    border: 3px solid rgb(219, 10, 52);
+    width: 60%;
+}
+.main_div label{
+    font-size: 20;
+}
+.main_div img{
+  width: 200;
+  height: 150;
+}
